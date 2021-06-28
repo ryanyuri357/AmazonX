@@ -1,6 +1,6 @@
 # AmazonX
 
-ReactJS Mock of Amazon Shopping App 
+ReactJS mock Amazon Shopping App 
 
 Ryan Y Pinto
 ryan.yuri357@gmai.com
